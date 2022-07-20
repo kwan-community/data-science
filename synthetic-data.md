@@ -117,3 +117,8 @@ I hope you enjoyed this mini intro to this very exciting area of Data Science!
 Would you like to know more about the subject? Here's an article about what is Data Science and its current challenge.
 
 Till the next voyage in this galaxy of data! 👋
+
+
+<br>
+
+_Originally published at https://kwan.pt/blog/synthetic-data-a-very-brief-intro-to-a-very-exciting-area-of-data-science on April 14, 2022._
